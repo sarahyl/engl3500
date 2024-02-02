@@ -74,7 +74,7 @@ You enter into a room and are faced with three doors.
 
 { lives_left > 0:
 	A wave of bowling balls roll towards you and you slam the door shut just in time.
-	-> room_3
+	-> room_2
 }
 
 A wave of bowling balls come rolling towards you and flatten you.
